@@ -13,11 +13,11 @@
 <br clear="both">
 
 <div align="center">
-  <a href="your-linkedin-URL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="35" alt="linkedin logo"  /></a>
-  <a href="your-linkedin-URL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="35" alt="instagram logo"  /></a>
-  <a href="your-linkedin-URL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="35" alt="youtube logo"  /></a>
-  <a href="your-linkedin-URL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="35" alt="discord logo"  /></a>
-  <a href="your-linkedin-URL"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="35" alt="telegram logo"  /></a>
+  <a href="https://www.linkedin.com/in/kavin-thangavel/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="35" alt="linkedin logo"  /></a>
+  <a href="https://www.instagram.com/kavin_thangavel_5/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="35" alt="instagram logo"  /></a>
+  <a href="https://www.youtube.com/@mrpetergriffin"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="35" alt="youtube logo"  /></a>
+  <a href="http://discordapp.com/users/781204576011288606"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="35" alt="discord logo"  /></a>
+  <a href="https://t.me/black_eagle_5"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="35" alt="telegram logo"  /></a>
 </div>
 
 ###
