@@ -115,6 +115,6 @@
 
 ###
 
-![Snake animation](https://github.com/Kavinthangavel/Kavinthangavel/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
