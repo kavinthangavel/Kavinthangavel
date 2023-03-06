@@ -24,8 +24,11 @@
 
 <br clear="both">
 
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kavinthangavel.Kavinthangavel&left_color=firebrick&right_color=rebeccapurple&left_text=Wayfarers :"  />
+<div
+< img src="https://visitor-badge.laobi.icu/badge?page_id=Kavinthangave1. Kavinthangavel&"
+</div>
 </div>
 
 ###
