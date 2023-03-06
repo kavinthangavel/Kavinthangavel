@@ -4,6 +4,12 @@
 
 <br clear="both">
 
+<h1 align="left"></h1>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img height="161" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhZjU1NDkzNDRmOGQxYjdiNDA2MDgxM2RmMzBmZGI0NDM0OWEzYyZjdD1n/n5j50VGDzkUqA/giphy.gif"  />
 </div>
@@ -24,20 +30,25 @@
 
 <br clear="both">
 
-
 <div align="center">
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavinthangavel&label=Wayfarers&color=0a60eb&style=flat" alt="kavinthangavel" /> </p>
+  <img src="https://komarev.com/ghpvc/?username=Kavinthangavel&color=7289d9&label=Wayfarers"  />
 </div>
-
-###
-
-<p align="left"></p>
 
 ###
 
 <br clear="both">
 
 <h1 align="left"></h1>
+
+###
+
+<h2 align="center">HEY THERE !! 😁</h2>
+
+###
+
+<div align="center">
+  <img height="238" src="https://25.media.tumblr.com/tumblr_mao3np7zM91qlhck1o3_500.gif"  />
+</div>
 
 ###
 
@@ -57,7 +68,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="48" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" width="48" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" width="48" alt="html5 logo"  />
@@ -91,17 +102,15 @@
 
 <br clear="both">
 
-<p align="left"></p>
+
 
 ###
 
-<br clear="both">
 
-<img align="left" height="170" src="https://media.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="38" width="57" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="38" width="57" alt="premierepro logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="38" width="57" alt="photoshop logo"  />
@@ -116,6 +125,8 @@
 
 ###
 
-
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  />
+</div>
 
 ###
