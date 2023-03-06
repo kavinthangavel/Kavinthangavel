@@ -85,12 +85,10 @@
 ###
 
 <div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="38" width="57" alt="aftereffects logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="38" width="57" alt="aftereffects logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="38" width="57" alt="premierepro logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="38" width="57" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="38" width="57" alt="unity logo"  />
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" height="38" width="57" alt="blender logo"  />&nbsp
-  <img scr="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" height="38" width="57" alt="Canva logo"  />&nbsp
 </div>
 ###
 
