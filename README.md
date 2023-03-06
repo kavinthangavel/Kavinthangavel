@@ -25,16 +25,8 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kavinthangavel.Kavinthangavel&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Kavinthangavel.Kavinthangavel&left_color=firebrick&right_color=rebeccapurple&left_text=Wayfarers :"  />
 </div>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="center">Languages and Tools :</h3>
 
 ###
 
@@ -44,7 +36,27 @@
 
 <br clear="both">
 
-<div align="center">
+<h1 align="left"></h1>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<h3 align="center">Languages and Tools :</h3>
+
+###
+
+<br clear="both">
+
+<p align="left"></p>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="48" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" width="48" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" width="48" alt="html5 logo"  />
@@ -66,9 +78,7 @@
 
 ###
 
-<h1 align="left"></h1>
-
-###
+<br clear="both">
 
 <p align="left"></p>
 
@@ -80,20 +90,30 @@
 
 <br clear="both">
 
-<img align="right" height="150" src="https://media.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif"  />
+<p align="left"></p>
 
 ###
 
-<div align="right">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="38" width="57" alt="aftereffects logo"/>
+<br clear="both">
+
+<img align="left" height="170" src="https://media.giphy.com/media/l0Iy2vqY7cTFR3RGE/giphy.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="38" width="57" alt="aftereffects logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" height="38" width="57" alt="premierepro logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="38" width="57" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="38" width="57" alt="unity logo"  />
-  <h1>             </h1>
 </div>
 
+###
 
 <br clear="both">
+
+<h1 align="left"></h1>
+
+###
 
 <img src="https://raw.githubusercontent.com/Kavinthangavel/Kavinthangavel/blob/output/snake.svg" alt="Snake animation" />
 
