@@ -26,9 +26,7 @@
 
 
 <div align="center">
-<div
-< img src="https://visitor-badge.laobi.icu/badge?page_id=Kavinthangave1. Kavinthangavel&"
-</div>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=kavinthangavel&label=Wayfarers&color=0a60eb&style=flat" alt="kavinthangavel" /> </p>
 </div>
 
 ###
