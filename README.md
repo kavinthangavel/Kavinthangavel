@@ -115,6 +115,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Kavinthangavel/Kavinthangavel/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Kavinthangavel/Kavinthangavel/blob/output/github-contribution-grid-snake.svg)
 
 ###
