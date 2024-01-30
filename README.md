@@ -1,11 +1,12 @@
 <h1 align="center">Just A Guy Who's Coding for Fun</h1>
 
+
+<br clear="both">
+
+
+
 ###
-
-
-<h1 align="left"></h1>
-
-###
+<br clear="both">
 
 
 <!-- <div align="center" >-->
@@ -35,10 +36,10 @@
 
 <br clear="both">
 
-<h1 align="left"></h1>
+
 
 ###
-
+<h1 align="left"></h1>
 <h2 align="center">HEY THERE !! 😁</h2>
 
 ###
