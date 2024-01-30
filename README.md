@@ -2,13 +2,11 @@
 
 ###
 
-<br clear="both">
 
 <h1 align="left"></h1>
 
 ###
 
-<br clear="both">
 
 <!-- <div align="center" >-->
 <!--   <img height="161" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhZjU1NDkzNDRmOGQxYjdiNDA2MDgxM2RmMzBmZGI0NDM0OWEzYyZjdD1n/n5j50VGDzkUqA/giphy.gif"  /> -->
@@ -16,7 +14,6 @@
 
 ###
 
-<br clear="both">
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kavin-thangavel/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="35" alt="linkedin logo"  /></a>
