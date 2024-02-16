@@ -26,8 +26,6 @@
 <h1 align="left"></h1>
 <h2 align="center">HEY THERE !! 😁</h2>
 
-###
-
 <div align="center">
   <img height="238" src="https://25.media.tumblr.com/tumblr_mao3np7zM91qlhck1o3_500.gif"  />
 </div>
