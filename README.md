@@ -13,7 +13,6 @@
 <!--   <img height="161" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzdhZjU1NDkzNDRmOGQxYjdiNDA2MDgxM2RmMzBmZGI0NDM0OWEzYyZjdD1n/n5j50VGDzkUqA/giphy.gif"  /> -->
 <!-- </div> -->
 
-###
 
 
 <!--<div align="center">
@@ -31,12 +30,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kavinthangavel&color=7289d9&label=Wayfarers"  />
 </div>
-
-###
-
-<br clear="both">
-
-
 
 ###
 <h1 align="left"></h1>
