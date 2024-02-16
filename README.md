@@ -16,7 +16,7 @@
 ###
 
 
-<div align="center">
+<!--<div align="center">
   <a href="https://www.linkedin.com/in/kavin-thangavel/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="35" alt="linkedin logo"  /></a>
   <a href="https://www.instagram.com/kxvinthxngxvel/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="62" height="35" alt="instagram logo"  /></a>
   <a href="https://www.youtube.com/@thestoicszen"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="62" height="35" alt="youtube logo"  /></a>
@@ -24,7 +24,7 @@
   <a href="https://t.me/devil_be"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="62" height="35" alt="telegram logo"  /></a>
 </div>
 
-###
+###-->
 
 <br clear="both">
 
