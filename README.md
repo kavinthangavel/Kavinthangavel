@@ -21,8 +21,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Kavinthangavel&color=7289d9&label=Wayfarers"  />
 </div>
-
-###
+#
 <h1 align="left"></h1>
 <h2 align="center">HEY THERE !! 😁</h2>
 
