@@ -19,7 +19,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kavinthangavel&color=7289d9&label=Wayfarers"  />
+  <img src="https://komarev.com/ghpvc/?username=Kavinthangavel&color=7289d9&label=Views"  />
 </div>
 
 <h1 align="left"></h1>
