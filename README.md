@@ -21,4 +21,4 @@
 
 ```
 
-Innovative, Independent Research, Web3-Driven
+Dev, AI, Automation
